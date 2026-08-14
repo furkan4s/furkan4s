@@ -8,7 +8,7 @@
 <!-- DAKTİLO ANİMASYONU -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+SaaS+ERP+%26+Financial+CRM+Systems;Architecting+B2B+Logistics+Automations;Next.js+%7C+Python+%7C+PostgreSQL+%7C+C%2B%2B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+Custom+Software+Solutions;Architecting+SaaS+ERP+%26+CRM+Systems;Next.js+%7C+Python+%7C+PostgreSQL+%7C+C%2B%2B" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <!-- VİTRİN / ODAK NOKTASI -->
 <div align="center">
   <h3>🚀 Current Focus</h3>
-  <p>Kurumsal seyahat ve lojistik operasyonları için tasarlanmış rol tabanlı özel bir SaaS ERP mimarisi olan <b>FRS Management System</b> üzerinde çalışıyor; veritabanı yönetimleri, karmaşık iş akışı otomasyonları ve B2B entegrasyonlarını şekillendiriyorum.</p>
+  <p>Focusing on custom software solutions, <b>SaaS ERP & CRM</b> architectures, and modern web platforms; developing complex database management systems and workflow automations.</p>
 </div>
 
 <br/>
