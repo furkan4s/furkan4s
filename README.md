@@ -5,5 +5,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,supabase,mysql,linux,docker,git,vscode&perline=10&theme=dark" alt="" />
+
+**Automation / CRM / Workflows / Web Apps / Tourism Tech**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,supabase,mysql,linux,docker,git,vscode&perline=10&theme=dark" alt="" />
+
 </div>
