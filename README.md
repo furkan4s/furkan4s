@@ -3,33 +3,28 @@
 </div>
 
 <div align="center">
-  <h3>Operations & Tech Lead | Full-Stack Developer</h3>
-  <p>Yönetim Bilişim Sistemleri (MIS) • Turizm Teknolojileri • İş Akışı Otomasyonları</p>
+  <h3>Operations & Tech Lead</h3>
+  <p>Yönetim Bilişim Sistemleri • Turizm Teknolojileri • İş Akışı Otomasyonları</p>
 </div>
 
 ---
 
+### 👋 Biraz benden
 
-
-### 🛠️ Teknoloji Yığınım
-
-**Mimari & Frontend:** <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
-
-**Backend & Veritabanı:** <br/>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,cpp,prisma" />
-
-**DevOps & Otomasyon:** <br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,github,vscode" />
+İş süreçlerini kolaylaştıran araçlar ve otomasyonlar geliştiriyorum. Kodlamada yapay zekâdan yararlanıyorum. Projelerimin çoğu private olduğu için burada göremiyorsunuz.
 
 ---
 
-### 📊 Sistem Telemetrisi
+### 🛠️ Kullandığım teknolojiler
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan4s&show_icons=true&title_color=f17e01&icon_color=f17e01&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan4s&theme=dark&fire=f17e01&ring=f17e01&sideNums=f17e01&currStreakNum=ffffff&sideLabels=ffffff" height="160" alt="GitHub Streak" />
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,supabase,mysql,linux,docker,git,vscode&perline=10" />
+
+---
+
+### 📬 İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f17e01?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sevin%C3%A7/)
+[![E-posta](https://img.shields.io/badge/E--posta-f17e01?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsevinc@muaztour.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f17e01&height=100&section=footer" width="100%" />
