@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="" />
+  <img src="./holo-banner.svg" width="100%" alt="" />
 </div>
 
 <div align="center">
@@ -9,5 +9,5 @@
 <br/>
 
 <div align="center">
-  <img src="./footer.svg" width="100%" alt="" />
+  <img src="./holo-wave.svg" width="100%" alt="" />
 </div>
