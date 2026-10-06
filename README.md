@@ -1,32 +1,41 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>_+ssh+furkan4s@github;>_+Executing+custom_solutions.sh...;>_+Deploying+SaaS+ERP+%26+CRM...;>_+System+Optimized." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f17e01&height=200&section=header&text=Furkan%20Sevinç&fontSize=50&fontColor=ffffff" width="100%" />
 </div>
 
-<p align="center">
-  <code>Operations & Tech Lead</code> • <code>Software Architect</code> • <code>Automation Builder</code>
-</p>
-
-<br>
-
-<h3 align="center">⚙️ Core Technologies</h3>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,supabase,mysql,n8n,linux,docker,git,vscode&perline=11&theme=dark" />
-  </a>
+  <h3>Operations & Tech Lead | Full-Stack Developer</h3>
+  <p>Yönetim Bilişim Sistemleri (MIS) • Turizm Teknolojileri • İş Akışı Otomasyonları</p>
 </div>
 
-<br>
+---
 
-<h3 align="center">📊 System Telemetry</h3>
+### 🚀 Hakkımda
+
+- 🏢 Turizm ve ulaşım sektöründe operasyon yönetimi yapıyor, markaların (Muaz Tour, The Clubhouse Travel vb.) dijital dönüşümüne liderlik ediyorum.
+- 💻 U-ETDS entegrasyonlu turizm ERP/CRM sistemleri ve B2B VIP transfer portalları geliştiriyorum.
+- 🤖 **n8n**, **Evolution API** ve yapay zeka araçları kullanarak süreç ve mesajlaşma otomasyonları kuruyorum.
+- 📈 R ve RStudio ile zaman serisi analizleri ve ekonometrik modellemeler üzerine çalışıyorum.
+
+### 🛠️ Teknoloji Yığınım
+
+**Mimari & Frontend:** <br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+
+**Backend & Veritabanı:** <br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,cpp,prisma" />
+
+**DevOps & Otomasyon:** <br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,github,vscode" />
+
+---
+
+### 📊 Sistem Telemetrisi
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan4s&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan4s&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan4s&show_icons=true&title_color=f17e01&icon_color=f17e01&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan4s&theme=dark&fire=f17e01&ring=f17e01&sideNums=f17e01&currStreakNum=ffffff&sideLabels=ffffff" height="160" alt="GitHub Streak" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkan4s&label=CONNECTIONS&color=00FF41&style=for-the-badge" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f17e01&height=100&section=footer" width="100%" />
 </div>
