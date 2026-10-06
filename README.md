@@ -1,48 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=170&section=header&text=Furkan&fontSize=52&fontColor=ffffff&fontAlignY=55" width="100%" alt="banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f17e01&height=200&section=header&text=Furkan%20Sevinç&fontSize=50&fontColor=ffffff" width="100%" />
+</div>
 
 <div align="center">
-
-### Operasyonu teknolojiyle kolaylaştıran biri 🌿
-
-Operations & Tech Lead · Yazılım mimarisi · Otomasyon
-
+  <h3>Operations & Tech Lead | Full-Stack Developer</h3>
+  <p>Yönetim Bilişim Sistemleri (MIS) • Turizm Teknolojileri • İş Akışı Otomasyonları</p>
 </div>
 
 ---
 
-## 👋 Biraz benden
 
-Gündelik işlerin içindeki tekrar eden, yorucu kısımları bulup onları otomatikleştiren araçlar kuruyorum. Kodu **yapay zekâ ile birlikte yazıyorum**; benim işim problemi doğru tanımlamak, mimariyi kurmak ve ortaya çıkanı çalışır hale getirmek.
 
-Repolarımın çoğu **private** (iş ve kişisel projeler), o yüzden burada kod yerine ne yaptığımı anlatıyorum.
+### 🛠️ Teknoloji Yığınım
 
-## 🛠️ Üzerinde çalıştıklarım
+**Mimari & Frontend:** <br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
 
-- 🧩 İş süreçleri için otomasyon ve iç araçlar
-- 🌐 Next.js + Supabase ile web uygulamaları
-- 🐍 Python ile script ve entegrasyonlar
+**Backend & Veritabanı:** <br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,cpp,prisma" />
 
-## 🧰 Kullandığım araçlar
+**DevOps & Otomasyon:** <br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,github,vscode" />
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=nextjs,python,cpp,postgres,supabase,mysql,linux,docker,git,vscode&perline=10" alt="teknolojiler" />
-
-</div>
-
-## 🌱 Şu an öğrendiklerim
-
-- AI ile daha düzenli ve test edilebilir kod yazmak
-- Veritabanı tasarımı ve sistem mimarisi
-- Docker ile daha temiz deploy süreçleri
-
-## 📬 İletişim
+### 📊 Sistem Telemetrisi
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINKIN)
-[![Mail](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADRESIN)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan4s&show_icons=true&title_color=f17e01&icon_color=f17e01&text_color=ffffff&bg_color=0d1117&hide_border=true" height="160" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan4s&theme=dark&fire=f17e01&ring=f17e01&sideNums=f17e01&currStreakNum=ffffff&sideLabels=ffffff" height="160" alt="GitHub Streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f17e01&height=100&section=footer" width="100%" />
+</div>
